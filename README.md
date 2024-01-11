@@ -2,7 +2,7 @@
 
 2021 Рост и развитие с инструментами трекинга https://github.com/kostin/certificates/raw/main/growth-and-development-with-tracking-tools-1t.pdf
 
-2022 Инженер облачных сервисов https://github.com/kostin/certificates/raw/main/cloud-service-engineer-yandex-practicum-rus.pdf
+2022 [Инженер облачных сервисов (АНО ШАД Яндекс)](https://github.com/kostin/certificates/raw/main/cloud-service-engineer-yandex-practicum-rus.pdf)
 
 2022 Аналитик данных. Data Scientist https://github.com/kostin/certificates/blob/raw/data-analyst-data-scientist-fa.jpg
 
