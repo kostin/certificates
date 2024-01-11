@@ -16,10 +16,10 @@
 
 2009 [Рекламные возможности Яндекса. Специалист по интрнет-рекламе (ООО Яндекс)](https://github.com/kostin/certificates/raw/main/yandex-direct-advertising-opportunities-2009.jpg)
 
-2023 [OKR Basic Certification](https://github.com/kostin/certificates/raw/main/okr-basic-certification-productlab-2023.pdf)
+2023 [OKR Basic Certification (Product Lab)](https://github.com/kostin/certificates/raw/main/okr-basic-certification-productlab-2023.pdf)
 
-2023 [Трендцы цифровых технологий](https://github.com/kostin/certificates/raw/main/digital-technology-trends-sber-university.png)
+2023 [Трендцы цифровых технологий (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/digital-technology-trends-sber-university.png)
 
-2023 [Основы цифровой трансфомации для менеджеров](https://github.com/kostin/certificates/raw/main/fundamentals-of-digital-transformation-for-managers-sber-university.png)
+2023 [Основы цифровой трансфомации для менеджеров (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/fundamentals-of-digital-transformation-for-managers-sber-university.png)
 
-2023 [Интеграционная архитектура](https://github.com/kostin/certificates/raw/main/integration-architecture-sber-university.png)
+2023 [Интеграционная архитектура (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/integration-architecture-sber-university.png)
