@@ -1,3 +1,7 @@
+# Высшее образование
+
+2007 [Магистр физико-математического образования (МПГУ)](https://github.com/kostin/certificates/raw/main/masters-degree-2007.jpg)
+
 # Повышение квалификации
 
 2021 [Рост и развитие с инструментами трекинга (ООО 1Т)](https://github.com/kostin/certificates/raw/main/growth-and-development-with-tracking-tools-1t.pdf)
@@ -9,6 +13,8 @@
 2023 [Цифровые платформы и технологические тренды (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/digital-platforms-and-techno-trends-sber-university.png)
 
 # Профессиональная переподготовка
+
+2007 [Преподаватель высшей школы (МПГУ)](https://github.com/kostin/certificates/raw/main/university-teacher-diploma-2007.jpg)
 
 2023 [Веб-разработчик (АНО ДПО Образовательные технологии Яндекса)](https://github.com/kostin/certificates/raw/main/web-developer-yandex-practicum-rus.pdf)
 
