@@ -4,9 +4,9 @@
 
 2022 [Инженер облачных сервисов (АНО ДПО ШАД)](https://github.com/kostin/certificates/raw/main/cloud-service-engineer-yandex-practicum-rus.pdf)
 
-2022 [Аналитик данных. Data Scientist](https://github.com/kostin/certificates/raw/main/data-analyst-data-scientist-fa.jpg)
+2022 [Аналитик данных. Data Scientist (Финансовый университет при Правительстве РФ)](https://github.com/kostin/certificates/raw/main/data-analyst-data-scientist-fa.jpg)
 
-2023 [Цифровые платформы и технологические тренды](https://github.com/kostin/certificates/raw/main/digital-platforms-and-techno-trends-sber-university.png)
+2023 [Цифровые платформы и технологические тренды (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/digital-platforms-and-techno-trends-sber-university.png)
 
 # Профессиональная переподготовка
 
@@ -14,7 +14,7 @@
 
 # Сертификаты
 
-2009 [Рекламные возможности Яндекса. Специалист по интрнет-рекламе](https://github.com/kostin/certificates/raw/main/yandex-direct-advertising-opportunities-2009.jpg)
+2009 [Рекламные возможности Яндекса. Специалист по интрнет-рекламе (ООО Яндекс)](https://github.com/kostin/certificates/raw/main/yandex-direct-advertising-opportunities-2009.jpg)
 
 2023 [OKR Basic Certification](https://github.com/kostin/certificates/raw/main/okr-basic-certification-productlab-2023.pdf)
 
