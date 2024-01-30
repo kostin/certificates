@@ -24,7 +24,7 @@
 
 2023 [OKR Basic Certification (Product Lab)](https://github.com/kostin/certificates/raw/main/okr-basic-certification-productlab-2023.pdf)
 
-2023 [Трендцы цифровых технологий (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/digital-technology-trends-sber-university.png)
+2023 [Тренды цифровых технологий (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/digital-technology-trends-sber-university.png)
 
 2023 [Основы цифровой трансфомации для менеджеров (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/fundamentals-of-digital-transformation-for-managers-sber-university.png)
 
