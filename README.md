@@ -24,7 +24,7 @@
 
 # Сертификаты
 
-2009 [Рекламные возможности Яндекса. Специалист по интрнет-рекламе (ООО Яндекс)](https://github.com/kostin/certificates/raw/main/yandex-direct-advertising-opportunities-2009.jpg)
+2009 [Рекламные возможности Яндекса. Специалист по интернет-рекламе (ООО Яндекс)](https://github.com/kostin/certificates/raw/main/yandex-direct-advertising-opportunities-2009.jpg)
 
 2023 [OKR Basic Certification (Product Lab)](https://github.com/kostin/certificates/raw/main/okr-basic-certification-productlab-2023.pdf)
 
