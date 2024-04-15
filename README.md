@@ -18,6 +18,10 @@
 
 2023 [Цифровые платформы и технологические тренды (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/digital-platforms-and-techno-trends-sber-university.png)
 
+# Научные публикации
+
+2024 [Мэтчинг категорий как упорядочивание хаоса. Кропивный Д.А., Костин А.Н., Клавдеев А.В.](https://github.com/kostin/certificates/raw/main/science-ed-russia-2024-3-kostin.pdf)
+
 # Сертификаты
 
 2009 [Рекламные возможности Яндекса. Специалист по интрнет-рекламе (ООО Яндекс)](https://github.com/kostin/certificates/raw/main/yandex-direct-advertising-opportunities-2009.jpg)
