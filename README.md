@@ -22,6 +22,10 @@
 
 2024 [Кропивный Д.А., Костин А.Н., Клавдеев А.В. Мэтчинг категорий как упорядочивание хаоса // Экономическое развитие России. — 2024. — № 3. — С. 21–24.](https://github.com/kostin/certificates/raw/main/science-ed-russia-2024-3-kostin.pdf)
 
+# Публичные выступления
+
+2024 [Конференция «Стратегические сценарии развития демонстрационного экзамена» от ИРПО](https://github.com/kostin/certificates/raw/main/kostin-report-demo-exam-2024.pdf)
+
 # Сертификаты
 
 2009 [Рекламные возможности Яндекса. Специалист по интернет-рекламе (ООО Яндекс)](https://github.com/kostin/certificates/raw/main/yandex-direct-advertising-opportunities-2009.jpg)
