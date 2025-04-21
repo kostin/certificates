@@ -18,6 +18,8 @@
 
 2023 [Цифровые платформы и технологические тренды (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/digital-platforms-and-techno-trends-sber-university.png)
 
+2025 [Разработка беспилотных авиационных систем (Финансовый университет при Правительстве РФ)](https://github.com/kostin/certificates/raw/main/kostin-dpo-pk-razrabotka-bas.pdf)
+
 # Научные публикации
 
 2024 [Кропивный Д.А., Костин А.Н., Клавдеев А.В. Мэтчинг категорий как упорядочивание хаоса // Экономическое развитие России. — 2024. — № 3. — С. 21–24.](https://github.com/kostin/certificates/raw/main/science-ed-russia-2024-3-kostin.pdf)
@@ -39,3 +41,7 @@
 2023 [Основы цифровой трансфомации для менеджеров (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/fundamentals-of-digital-transformation-for-managers-sber-university.png)
 
 2023 [Интеграционная архитектура (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/integration-architecture-sber-university.png)
+
+# Благодарности
+
+2024 [За организацию федерального турнина по БАС «Новая высота» от ИРПО](https://github.com/kostin/certificates/raw/main/kostin-blagodarnost-novaya-vysota-2024.jpeg)
