@@ -8,6 +8,8 @@
 
 2023 [Веб-разработчик (АНО ДПО Образовательные технологии Яндекса)](https://github.com/kostin/certificates/raw/main/web-developer-yandex-practicum-rus.pdf)
 
+2023 [Директор по продукту / CPO (Product Star, РБК)](https://github.com/kostin/certificates/raw/main/kostin-dpo-pp-cpo.pdf)
+
 # Повышение квалификации
 
 2021 [Рост и развитие с инструментами трекинга (ООО 1Т)](https://github.com/kostin/certificates/raw/main/growth-and-development-with-tracking-tools-1t.pdf)
