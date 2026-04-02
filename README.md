@@ -48,4 +48,6 @@
 
 # Благодарности
 
-2024 [За вклад в организацию и подготовку Всероссийского турнина по БАС «Новая высота» от ИРПО](https://github.com/kostin/certificates/raw/main/kostin-blagodarnost-novaya-vysota-2024.jpeg)
+2024 [За вклад в организацию и подготовку Всероссийского турнина по БАС «Новая высота 2024»](https://github.com/kostin/certificates/raw/main/kostin-blagodarnost-novaya-vysota-2024.jpeg) от ИРПО
+
+2025 [За вклад в организацию и подготовку Всероссийского турнина по БАС «Новая высота 2025»](https://github.com/kostin/certificates/raw/main/kostin-blagodarnost-novaya-vysota-2025.pdf) от ИРПО
