@@ -16,7 +16,7 @@
 
 2022 [Инженер облачных сервисов (АНО ДПО ШАД)](https://github.com/kostin/certificates/raw/main/cloud-service-engineer-yandex-practicum-rus.pdf)
 
-2022 [Аналитик данных. Data Scientist (Финансовый университет при Правительстве РФ)](https://github.com/kostin/certificates/raw/main/data-analyst-data-scientist-fa.jpg)
+2022 [Аналитик данных. Data Scientist (Финансовый университет при Правительстве РФ)](https://github.com/kostin/certificates/raw/main/kostin-data-analyst-2022.pdf)
 
 2023 [Цифровые платформы и технологические тренды (АНО ДПО Корпоративный университет Сбербанка)](https://github.com/kostin/certificates/raw/main/digital-platforms-and-techno-trends-sber-university.png)
 
